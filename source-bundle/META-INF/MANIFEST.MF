@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %bundle.name
+Bundle-SymbolicName: com.jolbox.bonecp.source
+Bundle-Version: 0.7.1.qualifier
+Bundle-Vendor: %provider.name
+Eclipse-SourceBundle: com.jolbox.bonecp;version="0.7.1.qualifier"
