@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: %bundle.name
 Bundle-SymbolicName: com.jolbox.bonecp
-Bundle-Version: 0.7.1.qualifier
+Bundle-Version: 0.7.2.qualifier
 Bundle-Vendor: %provider.name
 Export-Package: com.jolbox.bonecp;version="0.7.1",
  com.jolbox.bonecp.hooks;version="0.7.1",
